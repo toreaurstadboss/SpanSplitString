@@ -14,7 +14,6 @@ namespace SpanStringSplit
             }
             var tokens = SplitSpan(input.AsSpan(), splitChar, splitOptions);
             return tokens; 
-
         }
 
         public static string[] SplitSpan(this ReadOnlySpan<char> inputSpan, char splitChar, StringSplitOptions splitOptions)
@@ -27,7 +26,16 @@ namespace SpanStringSplit
             {
                 return splitOptions == StringSplitOptions.None ? new string[] { string.Empty } : new string[0]; 
             }
-            if (inputSpan.ToString().IndexOf(splitChar) < 0)
+            bool isSplitCharFound = false; 
+            foreach (char letter in inputSpan)
+            {
+                if (letter == splitChar)
+                {
+                    isSplitCharFound = true;
+                    break;
+                }
+            }
+            if (!isSplitCharFound)
             {
                 return new string[] { inputSpan.ToString() }; 
             }
