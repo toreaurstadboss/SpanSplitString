@@ -1,0 +1,17 @@
+C:\src\span-string-split\SpanStringSplit.Test\bin\Debug\netcoreapp2.0\SpanStringSplit.Test.deps.json
+C:\src\span-string-split\SpanStringSplit.Test\bin\Debug\netcoreapp2.0\SpanStringSplit.Test.dll
+C:\src\span-string-split\SpanStringSplit.Test\bin\Debug\netcoreapp2.0\SpanStringSplit.Test.pdb
+C:\src\span-string-split\SpanStringSplit.Test\bin\Debug\netcoreapp2.0\SpanStringSplit.dll
+C:\src\span-string-split\SpanStringSplit.Test\bin\Debug\netcoreapp2.0\SpanStringSplit.pdb
+C:\src\span-string-split\SpanStringSplit.Test\obj\Debug\netcoreapp2.0\SpanStringSplit.Test.csproj.AssemblyReference.cache
+C:\src\span-string-split\SpanStringSplit.Test\obj\Debug\netcoreapp2.0\SpanStringSplit.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\span-string-split\SpanStringSplit.Test\obj\Debug\netcoreapp2.0\SpanStringSplit.Test.AssemblyInfoInputs.cache
+C:\src\span-string-split\SpanStringSplit.Test\obj\Debug\netcoreapp2.0\SpanStringSplit.Test.AssemblyInfo.cs
+C:\src\span-string-split\SpanStringSplit.Test\obj\Debug\netcoreapp2.0\SpanStringSplit.Test.csproj.CoreCompileInputs.cache
+C:\src\span-string-split\SpanStringSplit.Test\obj\Debug\netcoreapp2.0\SpanStringSplit.Test.csproj.CopyComplete
+C:\src\span-string-split\SpanStringSplit.Test\obj\Debug\netcoreapp2.0\SpanStringSplit.Test.dll
+C:\src\span-string-split\SpanStringSplit.Test\obj\Debug\netcoreapp2.0\SpanStringSplit.Test.pdb
+C:\src\span-string-split\SpanStringSplit.Test\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\src\span-string-split\SpanStringSplit.Test\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\src\span-string-split\SpanStringSplit.Test\bin\Debug\netcoreapp2.0\nunit.engine.dll
+C:\src\span-string-split\SpanStringSplit.Test\bin\Debug\netcoreapp2.0\nunit.engine.api.dll

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MaoTQYTre7bkuMHz52liT1zjgab1RFv5arVdFA/vli0bMFH24dPij/OQ2oGVFu2ea1tpz+EgT9JGMUWzsfddpA==",
+  "success": true,
+  "projectFilePath": "C:\\src\\span-string-split\\SpanStringSplit.Test\\SpanStringSplit.Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\toaurs-he\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\toaurs-he\\.nuget\\packages\\nunit3testadapter\\3.15.1\\nunit3testadapter.3.15.1.nupkg.sha512",
+    "C:\\Users\\toaurs-he\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\toaurs-he\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\toaurs-he\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\toaurs-he\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+C:\src\span-string-split\SpanStringSplit\bin\Debug\netstandard2.0\SpanStringSplit.deps.json
+C:\src\span-string-split\SpanStringSplit\bin\Debug\netstandard2.0\SpanStringSplit.dll
+C:\src\span-string-split\SpanStringSplit\bin\Debug\netstandard2.0\SpanStringSplit.pdb
+C:\src\span-string-split\SpanStringSplit\obj\Debug\netstandard2.0\SpanStringSplit.csproj.AssemblyReference.cache
+C:\src\span-string-split\SpanStringSplit\obj\Debug\netstandard2.0\SpanStringSplit.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\span-string-split\SpanStringSplit\obj\Debug\netstandard2.0\SpanStringSplit.AssemblyInfoInputs.cache
+C:\src\span-string-split\SpanStringSplit\obj\Debug\netstandard2.0\SpanStringSplit.AssemblyInfo.cs
+C:\src\span-string-split\SpanStringSplit\obj\Debug\netstandard2.0\SpanStringSplit.csproj.CoreCompileInputs.cache
+C:\src\span-string-split\SpanStringSplit\obj\Debug\netstandard2.0\SpanStringSplit.dll
+C:\src\span-string-split\SpanStringSplit\obj\Debug\netstandard2.0\SpanStringSplit.pdb
